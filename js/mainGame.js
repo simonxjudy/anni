@@ -527,10 +527,10 @@ const gameData = {
         "text": "Pick a sidekick to come with us.",
         "image" : "smaller_images/new/sidekick.png",
 "choices" :{
-            "Haku": [5,["Doraemon"]],
-            "Pikachu": [5, ["Pompompurin"]],
-            "Totoro": [5, ["Kuromi"]],
-            "Stitch": [5, ["Keroppi"]]
+            "Haku": [49,["Doraemon"]],
+            "Pikachu": [49, ["Pompompurin"]],
+            "Totoro": [49, ["Kuromi"]],
+            "Stitch": [49, ["Keroppi"]]
         }
     },
     "59": {
