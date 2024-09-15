@@ -517,10 +517,10 @@ const gameData = {
         You’ve been granted one wish from a genie. What would you wish for us?",
         "image" : "smaller_images/new/genie.jpg",
 "choices" :{
-            "A lifetime of magical moments together.": [58,["Doraemon", "Pompompurin"]],
-            "Endless movie nights and snacks.": [58, ["Kuromi"]],
-            "A magic carpet for endless travels!": [58, ["Keroppi"]],
-            "Your happiness and health, always.": [58, ["Hello Kitty"]]
+            "A lifetime of magical moments together.": [5,["Doraemon", "Pompompurin"]],
+            "Endless movie nights and snacks.": [5, ["Kuromi"]],
+            "A magic carpet for endless travels!": [5, ["Keroppi"]],
+            "Your happiness and health, always.": [5, ["Hello Kitty"]]
         }
     },
     "58": {
